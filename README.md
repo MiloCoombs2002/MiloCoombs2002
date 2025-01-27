@@ -1,38 +1,54 @@
-# Welcome to My GitHub Profile 👋
-## About Me
-I'm currently completing my **Master’s in Physics (MPhys)** at **Durham University**, where I graduated **2nd in my cohort** with a **First Class with Honours**. My passion lies at the intersection of **physics**, **quantitative finance**, and **data analysis**, with a strong focus on applying advanced computational techniques to solve real-world problems.
+# Welcome to My GitHub Profile 👋  
 
-In my internships and academic projects, I’ve honed my expertise in **Python, SQL, data management**, and **quantitative trading strategies**. My technical acumen, combined with my leadership roles at Durham and professional experience, enables me to thrive in both academic and professional environments.
+## About Me  
+I’m a passionate **physicist and data scientist** with a strong foundation in **machine learning, quantitative finance**, and **computational problem-solving**. I recently completed my **Master’s in Physics (MPhys)** at **Durham University**, graduating **2nd in my cohort** with a **First Class with Honours**.  
 
-## Key Areas of Expertise:
-- **Programming Languages**: Python, SQL, C++, Excel, Pandas, Numpy
-- **Data Analysis**: Statistical mechanics, predictive modeling, financial data analysis, algorithmic trading
-- **Project Management**: Agile methodologies, Jira, stakeholder communication
-- **Cloud Computing**: Developed and deployed API-based solutions in Azure for real-time portfolio management
-- **Quantitative Finance**: Mean reversion, arbitrage strategies, risk-adjusted returns optimization
-## Professional Experience
-#### Business Analyst / Project Manager Intern @ Finbourne Technology (2024)
-- Optimized investment data processes using SQL and Python, reducing analysis time by 20%.
-- Created Python demos and automated API solutions to improve portfolio management accuracy by 30%.
-#### Financial Data Analysis Intern @ Beever and Struthers (2022)
-- Conducted audits that led to potential savings of £60,000 for housing associations.
-- Implemented data extraction improvements, increasing audit efficiency by 21%.
-## Featured Projects
-#### Quantum Mechanics Research Project
-- Developed **predictive models** using Python to simulate electron behavior, improving accuracy in forecasting complex data-driven predictions.
-- **Published a new equation** for kinetic energy, soon to appear in the **Journal of Chemical Physics**.
-#### Quantitative Fund Management
-- Led a team to deploy **mean reversion** and **arbitrage trading** strategies on QuantConnect, achieving an 8% simulated return over six months.
-- **Programmed custom algorithms** to optimize performance based on the **Sharpe ratio** and reduce portfolio volatility.
-## Courses and Certifications
-- Algorithmic Trading and Finance Models with Python, R, and Stata (LinkedIn Learning)
-- Financial Markets, Private Equity & Corporate Valuation (Finance Unlocked)
-## Interests
-- Outside of my academic and professional pursuits, I enjoy being a lead guitarist in a jazz band and playing a variety of sports, including rowing, tennis, and captaining my university's first men's netball team.
+Currently, I’m focusing on enhancing my expertise in **machine learning**, **algorithmic trading**, and **quantum computing** through independent projects and advanced coursework. My professional experience in **data science**, **portfolio management**, and **quantitative strategies** complements my academic background, enabling me to tackle complex, real-world challenges with innovative solutions.  
 
-## Get in Touch
-Feel free to explore my repositories or reach out if you have any questions about my work:
+## Key Areas of Expertise  
+- **Programming Languages**: Python, SQL, C++, TensorFlow, PyTorch, SciKit-Learn, Pandas, Linux  
+- **Data Science & Machine Learning**: Predictive modelling, reinforcement learning, statistical arbitrage, data visualisation  
+- **Quantitative Finance**: Algorithmic trading strategies (mean reversion, arbitrage), risk-adjusted returns optimisation, portfolio management  
+- **Cloud Computing**: Deployed ML-based solutions on Google Cloud Platform (GCP) and Azure  
+- **Research & Analysis**: Density Functional Theory (DFT), quantum mechanics, electron behaviour simulations  
 
-[Email](milo.coombs7@gmail.com)
+## Professional Experience  
+#### Project Delivery Manager @ Finbourne Technology (2024 – 2025)  
+- Designed scalable **Python pipelines** to improve model evaluation efficiency for traders.  
+- Built **automated workflows** in SQL and Python for Bloomberg data integration, reducing manual effort by 20%.  
+- Created Python-based demos and **Power BI dashboards** to enhance portfolio transparency and client engagement.  
 
-[LinkedIn](linkedin.com/in/milo-coombs-92734517a/)
+#### Financial Data Analysis Intern @ Beever and Struthers (2022)  
+- Conducted audits that led to potential savings of £60,000 for housing associations.  
+- Improved audit efficiency by 21% through the implementation of data extraction enhancements using Excel macros.  
+
+#### Professional Development (2025 – Present)  
+- Developed a **reinforcement learning trading strategy**, achieving a simulated 5% annualised return.  
+- Completed the **Machine Learning Specialisation** (DeepLearning.AI) and statistical arbitrage coursework using GCP.  
+
+## Featured Projects  
+#### ML-Based Quantitative Strategy Development  
+- Built a **risk management framework** using ML algorithms and a sliding window technique to optimise for data volatility.  
+- Focused on reinforcement learning to dynamically adjust trading strategies for market conditions.  
+
+#### Quantum Mechanics Research Project  
+- Developed predictive models with **Python and DFT** to simulate electron behaviour, improving the accuracy of data-driven predictions.  
+- Published a **new equation for electron kinetic energy**, forthcoming in the **Journal of Chemical Physics**.  
+
+#### Quantitative Fund Management  
+- Led a team implementing **mean reversion** and **arbitrage trading strategies** on QuantConnect, achieving an 8% simulated return.  
+- Optimised **neural networks** using TensorFlow to maximise the **Sharpe ratio** and minimise portfolio risk.  
+
+## Courses and Certifications  
+- **Machine Learning Specialisation** – DeepLearning.AI (2025)  
+- **Introduction to Trading, Machine Learning and GCP** – New York Institute of Finance (2025)  
+- **Algorithmic Trading and Finance Models with Python, R, and Stata** – LinkedIn Learning (2024)  
+
+## Interests  
+Outside of academics and work, I’m a passionate musician, serving as the **lead guitarist in a jazz band**, and an avid sports enthusiast, enjoying rowing, tennis, and captaining my university’s **first men’s netball team**.  
+
+## Get in Touch  
+Feel free to explore my repositories or reach out to discuss my projects, collaborations, or career opportunities:  
+
+📧 [Email](mailto:milo.coombs7@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/milo-coombs-92734517a/)  
