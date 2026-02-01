@@ -2,9 +2,8 @@
 
 Theory-driven machine learning.
 
-This GitHub hosts research code and experiments focused on
-approximation theory, spectral representations, and interpretable
-models for tabular data.
+I'm very interested in fundamental physics and machine learning. Most of my work is theory-based not code, and I tend to run experiments in Colab. 
+This GitHub hosts research code and experiments focused on approximation theory, spectral representations, and interpretable models for tabular data.
 
 Most repositories are research-oriented and may accompany working
 papers or ongoing investigations. Code is written with an emphasis on
